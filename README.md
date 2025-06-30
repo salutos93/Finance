@@ -2,10 +2,6 @@
 
 ## "Outils libres pour le développement logiciel"
 
-**Auteur :** Abdelkader BERROUACHEDI
-**Contact :** abdelkader.berrouachedi@iedparis8.net
-**Université :** Université Paris 8, Institut d'Enseignement à Distance
-**Date :** 29 juin 2025
 
 ---
 
