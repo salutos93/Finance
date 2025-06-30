@@ -1,6 +1,6 @@
 # Projet Master 1 Informatique : Analyse de Fraude Bancaire
 
-## "Outils libres pour le développement logiciel"
+## Outils libres pour le développement logiciel
 
 
 ---
